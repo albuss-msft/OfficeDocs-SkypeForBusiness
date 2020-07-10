@@ -30,7 +30,7 @@ Inline message translation is a new Microsoft Teams feature that lets users tran
 Inline message translation is being rolled out by default for your organization. If you want to allow users to use this feature within the Teams client, you must turn this setting on.
 
 > [!NOTE]
->This rollout is excluded from Office 365 subscriptions in our Office 365 Government Community Cloud and Office 365 Germany environments.
+>This rollout is excluded from Office 365 subscriptions in our Office 365 Government DoD Cloud and Office 365 Germany environments.
 
 ## Use PowerShell to turn on inline message translation
 
